@@ -7,7 +7,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 Transform your AI assistant into a **full-stack expert** with 70+ battle-tested skills covering security, AI/ML, React, Python, DevOps, and more.
-
+## Extension
+https://marketplace.visualstudio.com/items?itemName=vibe-coding-kit.vibe-coding-kit
 ## ⚡ Installation
 
 ```bash
